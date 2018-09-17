@@ -54,5 +54,12 @@
         "image": "toyota-corolla.jpg",
         "description": "A compact car manufactured by Toyota",
         "price": 20000.00
+    },
+    {
+        "id": "12",
+        "title": "Subaru Impreza",
+        "image": "subaru-impreza.jpg",
+        "description": "A compact car manufactured by Subaru",
+        "price": 20000.00
     }
 ]
