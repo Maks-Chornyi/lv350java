@@ -1,3 +1,11 @@
+#carouselOffers {
+    height: 500px;
+}
+
+#carouselOffers img {
+    max-height: 450px;
+}
+
 .card {
     height: 100%;
 }
@@ -5,3 +13,4 @@
 .btn {
     padding: 0.75rem 0.7rem;
 }
+
