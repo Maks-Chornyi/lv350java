@@ -54,5 +54,13 @@
         "image": "toyota-corolla.jpg",
         "description": "A compact car manufactured by Toyota",
         "price": 20000.00
+    },
+    {
+        "id": "9",
+        "title": "Tesla Roadser",
+        "image": "tesla-roadster.jpg",
+        "description": "A compact car manufactured by Tesla",
+        "price": 30000.00
     }
+
 ]
